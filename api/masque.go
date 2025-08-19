@@ -10,7 +10,7 @@ import (
 	"net"
 	"net/http"
 
-	connectip "github.com/Diniboy1123/connect-ip-go"
+	connectip "github.com/maoist2009/connect-ip-go"
 	"github.com/quic-go/quic-go"
 	"github.com/quic-go/quic-go/http3"
 	"github.com/yosida95/uritemplate/v3"
